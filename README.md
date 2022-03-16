@@ -12,7 +12,7 @@ COMPLETED:
 
 PENDING:
 
--Could not figure out how the button would trigger to open the.
+-Could not figure out how the button would trigger to open the popup.
 
 -Validation of email and name fields not working.
 
