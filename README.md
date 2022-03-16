@@ -1,6 +1,7 @@
 # Test_Website
 
 COMPLETED:
+
 -Created a header with logo and a button.
 
 -Created a 3-image slider which rotates infinitly every 8 seconds.
@@ -10,6 +11,7 @@ COMPLETED:
 -The pop up contains email and name field along with a button.
 
 PENDING:
+
 -Could not figure out how the button would trigger to open the.
 
 -Validation of email and name fields not working.
