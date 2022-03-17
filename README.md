@@ -10,9 +10,3 @@ COMPLETED:
 
 -The pop up contains email and name field along with a button.
 
-PENDING:
-
--Could not figure out how the button would trigger to open the popup.
-
--Validation of email and name fields not working.
-
